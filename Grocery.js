@@ -8,6 +8,7 @@ var Grocery = /** @class */ (function () {
         this.quanity;
     }
     return Grocery;
+    
 }());
 var items = [];
 var prices = [];
